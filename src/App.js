@@ -102,6 +102,7 @@ function App() {
        
       }catch(error){
         console.log(`送信失敗${error}`);
+        console,log('変更した');
       }
       
 
